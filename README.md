@@ -39,7 +39,6 @@ I'm a passionate **Data Scientist** and **AI Engineer** with expertise in buildi
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ### Databases & Tools
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -58,14 +57,10 @@ I'm a passionate **Data Scientist** and **AI Engineer** with expertise in buildi
 
 ## GitHub Analytics 📊
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=harshinharshi&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshinharshi&layout=compact&langs_count=8&theme=radical" alt="Top Languages"/>
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=harshinharshi&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harshinharshi&layout=compact&langs_count=8&theme=radical)
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshinharshi&theme=radical" alt="GitHub Streak Stats" />
-</p>
+![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=harshinharshi&theme=radical)
 
 ## Let's Connect! 🤝
 
