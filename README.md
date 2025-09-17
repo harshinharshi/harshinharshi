@@ -55,12 +55,16 @@ I'm a passionate **Data Scientist** and **AI Engineer** with expertise in buildi
 
 ---
 
-## GitHub Analytics 📊
+## GitHub Activity 📊
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=harshinharshi&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harshinharshi&layout=compact&langs_count=8&theme=radical)
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harshinharshi&theme=radical" alt="GitHub Profile Summary"/>
+</div>
 
-![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=harshinharshi&theme=radical)
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=harshinharshi&theme=radical" alt="Top Languages"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=harshinharshi&theme=radical" alt="Most Used Language"/>
+</div>
 
 ## Let's Connect! 🤝
 
