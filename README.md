@@ -46,23 +46,26 @@ I'm a passionate **Data Scientist** and **AI Engineer** with expertise in buildi
 
 ## Featured Projects 🌟
 
-### 🔍 [ArxivRAG](https://github.com/harshinharshi/ArxivRAG)
-An intelligent research paper discovery system leveraging Retrieval-Augmented Generation to help researchers find and understand academic papers more efficiently.
+<div align="center">
 
-**Tech Stack:** Python • LangChain • FastAPI • Vector Databases • LLMs
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| 🔍 **[ArxivRAG](https://github.com/harshinharshi/ArxivRAG)** | Intelligent research paper discovery system leveraging Retrieval-Augmented Generation to help researchers find and understand academic papers more efficiently. | `Python` `LangChain` `FastAPI` `Vector DBs` `LLMs` |
+
+</div>
 
 ---
 
 ## GitHub Analytics 📊
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=harshinharshi&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshinharshi&layout=compact&langs_count=8&theme=radical"/>
-</div>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=harshinharshi&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshinharshi&layout=compact&langs_count=8&theme=radical" alt="Top Languages"/>
+</p>
 
-<div align="center">
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshinharshi&theme=radical" alt="GitHub Streak Stats" />
-</div>
+</p>
 
 ## Let's Connect! 🤝
 
